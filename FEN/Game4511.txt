@@ -1,0 +1,4 @@
+rnbqkbnr/pppppppp/llllllll/llllllll/llllPlll/llllllll/PPPPlPPP/RNBQKBNR
+rnbqkbnr/pppplppp/llllllll/llllplll/llllPlll/llllllll/PPPPlPPP/RNBQKBNR
+rnbqkbnr/pppplppp/llllllll/llllplll/llllPlll/lllllNll/PPPPlPPP/RNBQKBlR
+rnbqkblr/pppplppp/lllllnll/llllplll/llllPlll/lllllNll/PPPPlPPP/RNBQKBlR

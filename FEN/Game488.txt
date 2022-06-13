@@ -1,0 +1,7 @@
+rnbqkbnr/pppppppp/llllllll/llllllll/llllPlll/llllllll/PPPPlPPP/RNBQKBNR
+rnbqkbnr/pplppppp/llplllll/llllllll/llllPlll/llllllll/PPPPlPPP/RNBQKBNR
+rnbqkbnr/pplppppp/llplllll/llllllll/lllPPlll/llllllll/PPPllPPP/RNBQKBNR
+rnbqkbnr/ppllpppp/llplllll/lllpllll/lllPPlll/llllllll/PPPllPPP/RNBQKBNR
+rnbqkbnr/ppllpppp/llplllll/lllPllll/lllPllll/llllllll/PPPllPPP/RNBQKBNR
+rnbqkbnr/ppllpppp/llllllll/lllpllll/lllPllll/llllllll/PPPllPPP/RNBQKBNR
+rnbqkbnr/ppllpppp/llllllll/lllpllll/lllPllll/lllBllll/PPPllPPP/RNBQKlNR

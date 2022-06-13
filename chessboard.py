@@ -78,9 +78,9 @@ def find_intersection():
             int_y = i[0]*int_x+i[1]
             intersection.append([int_x, int_y])
     intersection = np.flip(np.array(intersection), axis=0)
-    """plt.imshow(image, cmap='gray', vmin = 0, vmax = 255)
+    plt.imshow(image, cmap='gray', vmin = 0, vmax = 255)
     plt.scatter(intersection[:,0], intersection[:,1])
-    plt.show()"""
+    plt.show()
 
     intersection = intersection.reshape((9,9,2))
     height = 1.8*np.linalg.norm(np.diff(intersection, axis=1), axis=2)

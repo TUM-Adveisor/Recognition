@@ -1,0 +1,12 @@
+rnbqkbnr/pppppppp/llllllll/llllllll/llllllll/lllllNll/PPPPPPPP/RNBQKBlR
+rnbqkblr/pppppppp/lllllnll/llllllll/llllllll/lllllNll/PPPPPPPP/RNBQKBlR
+rnbqkblr/pppppppp/lllllnll/llllllll/llllllll/llllPNll/PPPPlPPP/RNBQKBlR
+rnbqkblr/pplppppp/lllllnll/llplllll/llllllll/llllPNll/PPPPlPPP/RNBQKBlR
+rnbqkblr/pplppppp/lllllnll/llplllll/llllllll/lPllPNll/PlPPlPPP/RNBQKBlR
+rnbqkblr/pplppplp/lllllnpl/llplllll/llllllll/lPllPNll/PlPPlPPP/RNBQKBlR
+rnbqkblr/pplppplp/lllllnpl/llplllll/llllllll/lPllPNll/PBPPlPPP/RNlQKBlR
+rnbqkllr/pplpppbp/lllllnpl/llplllll/llllllll/lPllPNll/PBPPlPPP/RNlQKBlR
+rnbqkllr/pplpppbp/lllllnpl/llplllll/llllllll/lPllPNll/PBPPBPPP/RNlQKllR
+rnbqlrkl/pplpppbp/lllllnpl/llplllll/llllllll/lPllPNll/PBPPBPPP/RNlQKllR
+rnbqlrkl/pplpppbp/lllllnpl/llplllll/llllllll/lPllPNll/PBPPBPPP/RNlQlRKl
+rlbqlrkl/pplpppbp/llnllnpl/llplllll/llllllll/lPllPNll/PBPPBPPP/RNlQlRKl
